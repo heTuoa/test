@@ -1,10 +1,11 @@
 import random
 
-while 1:
+
+while True:
     print("开始")
     gusss = random.randint(1, 10)
     print(gusss)
-    while 1:
+    while True:
         num = int(input("请输入1-10的数字："))
         if num < 1:
             print("数字太小")

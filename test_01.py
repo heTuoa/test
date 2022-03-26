@@ -1,4 +1,4 @@
-while 1:
+while True:
     print("查询能量，退出0")
     print("能力来源如下")
     print("生活缴费、行走捐、共享单车、线下支付、网络购票")
